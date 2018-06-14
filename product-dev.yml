@@ -3,9 +3,9 @@ spring:
     name: product
   datasource:
     name: test
-    url: jdbc:mysql://127.0.0.1:3306/shop_test
+    url: jdbc:mysql://92.168.8.123:3306/shop_test
     username: root
-    password: pp527796
+    password: root
     type: com.alibaba.druid.pool.DruidDataSource
     driver-class-name: com.mysql.jdbc.Driver
 zzc: test
